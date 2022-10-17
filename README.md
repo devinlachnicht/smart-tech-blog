@@ -66,3 +66,5 @@ DB_NAME='blog_db'
 DB_USER='root'
 DB_PW=''
 ```
+## *links*
+<a href="https://smart-tech-blog.herokuapp.com/" target="_blank">Heroku App</a>
